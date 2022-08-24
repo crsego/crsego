@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @crsego
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @crsego  
+- 🌱 I’m currently learning REACT, Redux, JavaScript
 - 📫 How to reach me, cristsergo@gmail.com 
 
 <!---
