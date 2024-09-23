@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cristian Serna Gomez 
-- 🌱 I work with REACT, Redux, JavaScript, HTML, CSS.
+- 🌱 I'm a fullstack developer
 - 📫 How to reach me:
 - Mail: cristsergo@gmail.com
 - phone: +57 3134756069
